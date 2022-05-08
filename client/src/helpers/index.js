@@ -1,5 +1,6 @@
 // @flow
 
+export * from './makeLogInRequest';
 export * from './makeSignUpRequest';
 export * from './passwordSchema';
 export * from './setUpAuthResponse';
