@@ -1,0 +1,3 @@
+.password-info-trigger:not(:focus-within) .password-info {
+  @apply sr-only;
+}
